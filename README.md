@@ -1,0 +1,6 @@
+# COMP-578 Data Mining
+<img src="https://www.startpage.com/av/proxy-image?piurl=https://www.8ways.ch/application/files/1115/4278/8120/text-mining-icon-2793702_640.png&sp=1601077392T95bcf45462728ecbdf87066cc23497a190fdf55381c603684a2d32d565890593" width="100" height="100">
+
+Data mining is the process of discovering patterns and associations in large data sets. It supports decision making by detecting patterns, devising rules, identifying new decision alternatives and making predictions. This course provides an overview of leading data mining methods and their applications to real-world problems. It is designed to provide students with the skills to conduct data mining and statistical analysis for dealing with analytical tasks such as prediction, classification, decision trees and clustering. Students will use available software to conduct various data mining analyses and understand the application of a wide range of modern techniques to specific managerial and analytical situations, and on model interpretation to specific managerial and analytical situations, and on model interpretation.
+
+###### California State University, Channel Islands (CSUCI) Department of Computer Science COMP 578 Data Mining.
